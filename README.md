@@ -1,1 +1,1 @@
-# arduino_project_vehicle_parkig_sensor
+# arduino_project_vehicle_parking_sensor
